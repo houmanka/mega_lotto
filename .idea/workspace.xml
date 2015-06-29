@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bf5a0f4-a9bd-48a6-b3a2-c89d56027a44" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/mega_lotto/drawing.rb" afterPath="$PROJECT_DIR$/lib/mega_lotto/drawing.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/mega_lotto/drawing_spec.rb" afterPath="$PROJECT_DIR$/spec/mega_lotto/drawing_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mega_lotto.gemspec" afterPath="$PROJECT_DIR$/mega_lotto.gemspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/mega_lotto/version.rb" afterPath="$PROJECT_DIR$/lib/mega_lotto/version.rb" />
     </list>
     <ignored path="mega_lotto.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,11 +44,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="drawing.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="drawing.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/mega_lotto/drawing.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13863216">
+            <state vertical-scroll-proportion="0.0">
               <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="version.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/mega_lotto/version.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.027726432">
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -65,10 +73,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/lib/mega_lotto.rb" />
-        <option value="$PROJECT_DIR$/lib/mega_lotto/version.rb" />
         <option value="$PROJECT_DIR$/mega_lotto.gemspec" />
         <option value="$PROJECT_DIR$/spec/mega_lotto/drawing_spec.rb" />
         <option value="$PROJECT_DIR$/lib/mega_lotto/drawing.rb" />
+        <option value="$PROJECT_DIR$/lib/mega_lotto/version.rb" />
       </list>
     </option>
   </component>
@@ -431,10 +439,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/mega_lotto/version.rb">
+    <entry file="file://$PROJECT_DIR$/spec/mega_lotto/drawing_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.018181818">
-          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -447,18 +455,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/mega_lotto/drawing_spec.rb">
+    <entry file="file://$PROJECT_DIR$/lib/mega_lotto/drawing.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/mega_lotto/drawing.rb">
+    <entry file="file://$PROJECT_DIR$/lib/mega_lotto/version.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13863216">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.027726432">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
           <folding />
         </state>
       </provider>
