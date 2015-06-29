@@ -11,8 +11,8 @@ module MegaLotto
 				expect(drawing).to be_a(Array)
 			end
 
-			it "returns array with 5 elements" do
-				expect(drawing.size).to eq(5)
+			it "returns array with 6 elements" do
+				expect(drawing.size).to eq(6)
 			end
 
 			it "each element is an Integer" do
